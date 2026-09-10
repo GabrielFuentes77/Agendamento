@@ -791,3 +791,4 @@ D:\Unip\Desenvolvimento Web com .Net\Agendamento\obj\Debug\net9.0\refint\Agendam
 D:\Unip\Desenvolvimento Web com .Net\Agendamento\obj\Debug\net9.0\Agendamento.pdb
 D:\Unip\Desenvolvimento Web com .Net\Agendamento\obj\Debug\net9.0\Agendamento.genruntimeconfig.cache
 D:\Unip\Desenvolvimento Web com .Net\Agendamento\obj\Debug\net9.0\ref\Agendamento.dll
+D:\Unip\Desenvolvimento Web com .Net\Agendamento\obj\Debug\net9.0\Agendamento.sourcelink.json

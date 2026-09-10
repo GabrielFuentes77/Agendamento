@@ -6,39 +6,27 @@
 
  <h1>Medicos</h1>
 
-
+ <p>
+     <a asp-action="Inserir" class="btn btn-success">Inserir</a>
+ </p>
 <table class="table table-striped table-hover">
-    
-    <thead>
-        
+    <thead>  
         <tr>
-            
             <th>Id</th>
-            
             <th>Nome</th>
-            
             <th>CRM</th>
-            
             <th>Especialidade</th>
-            
         </tr>
-        
     </thead>
-    
     <tbody>
          @foreach (var medico in Model)
-         {
-            
-            <tr>
-                
+         { 
+            <tr>   
                 <td>@medico.Id</td>
-                            <td>@medico.Nome</td>
+                <td>@medico.Nome</td>
                 <td>@medico.Crm</td>
-                
                 <td>@medico.Especialidade</td>
-                
             </tr>
-             }
-        
+         }   
     </tbody>
     </table>

@@ -17,5 +17,11 @@ namespace Agendamento.Services
             return _context.Medicos.ToList();
         }
 
+        public void Inserir(Medico medico)
+        {
+            _context.Medicos.Add(medico);
+            _context.SaveChanges();
+        }
+
     }
 }

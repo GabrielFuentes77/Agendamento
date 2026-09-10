@@ -1,4 +1,5 @@
-﻿using Agendamento.Services;
+﻿using Agendamento.Models;
+using Agendamento.Services;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Agendamento.Controllers
@@ -18,6 +19,17 @@ namespace Agendamento.Controllers
         {
             var listaMedicos = _medicoService.Listar();
             return View(listaMedicos);
+        }
+
+        public IActionResult Inserir()
+        {
+            return View();
+        }
+        [HttpPost]
+        public IActionResult Inserir(Medico medico)
+        {
+            _medicoService.Inserir(medico);
+            return RedirectToAction(nameof(Index));
         }
     }
 }
