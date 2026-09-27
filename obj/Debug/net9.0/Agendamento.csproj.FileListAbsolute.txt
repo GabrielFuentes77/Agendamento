@@ -597,7 +597,6 @@ D:\Unip\Desenvolvimento Web com .Net\Agendamento\bin\Debug\net9.0\appsettings.De
 D:\Unip\Desenvolvimento Web com .Net\Agendamento\bin\Debug\net9.0\appsettings.json
 D:\Unip\Desenvolvimento Web com .Net\Agendamento\bin\Debug\net9.0\Agendamento.staticwebassets.endpoints.json
 D:\Unip\Desenvolvimento Web com .Net\Agendamento\bin\Debug\net9.0\Agendamento.staticwebassets.runtime.json
-D:\Unip\Desenvolvimento Web com .Net\Agendamento\bin\Debug\net9.0\Agendamento.exe
 D:\Unip\Desenvolvimento Web com .Net\Agendamento\bin\Debug\net9.0\Agendamento.deps.json
 D:\Unip\Desenvolvimento Web com .Net\Agendamento\bin\Debug\net9.0\Agendamento.runtimeconfig.json
 D:\Unip\Desenvolvimento Web com .Net\Agendamento\bin\Debug\net9.0\Agendamento.dll
@@ -783,7 +782,6 @@ D:\Unip\Desenvolvimento Web com .Net\Agendamento\obj\Debug\net9.0\staticwebasset
 D:\Unip\Desenvolvimento Web com .Net\Agendamento\obj\Debug\net9.0\staticwebassets.development.json
 D:\Unip\Desenvolvimento Web com .Net\Agendamento\obj\Debug\net9.0\staticwebassets.build.endpoints.json
 D:\Unip\Desenvolvimento Web com .Net\Agendamento\obj\Debug\net9.0\swae.build.ex.cache
-D:\Unip\Desenvolvimento Web com .Net\Agendamento\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 D:\Unip\Desenvolvimento Web com .Net\Agendamento\obj\Debug\net9.0\Agendame.DA562893.Up2Date
 D:\Unip\Desenvolvimento Web com .Net\Agendamento\obj\Debug\net9.0\Agendamento.dll
 D:\Unip\Desenvolvimento Web com .Net\Agendamento\obj\Debug\net9.0\refint\Agendamento.dll
@@ -792,3 +790,5 @@ D:\Unip\Desenvolvimento Web com .Net\Agendamento\obj\Debug\net9.0\Agendamento.ge
 D:\Unip\Desenvolvimento Web com .Net\Agendamento\obj\Debug\net9.0\ref\Agendamento.dll
 D:\Unip\Desenvolvimento Web com .Net\Agendamento\obj\Debug\net9.0\Agendamento.sourcelink.json
 D:\Unip\Desenvolvimento Web com .Net\Agendamento\obj\Debug\net9.0\compressed\tf7scf3fk4-{0}-r7o03e2t8i-r7o03e2t8i.gz
+D:\Unip\Desenvolvimento Web com .Net\Agendamento\bin\Debug\net9.0\Agendamento.exe
+D:\Unip\Desenvolvimento Web com .Net\Agendamento\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
