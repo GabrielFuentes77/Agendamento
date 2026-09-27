@@ -715,7 +715,6 @@ D:\Unip\Desenvolvimento Web com .Net\Agendamento\obj\Debug\net9.0\rjsmcshtml.dsw
 D:\Unip\Desenvolvimento Web com .Net\Agendamento\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 D:\Unip\Desenvolvimento Web com .Net\Agendamento\obj\Debug\net9.0\scopedcss\bundle\Agendamento.styles.css
 D:\Unip\Desenvolvimento Web com .Net\Agendamento\obj\Debug\net9.0\scopedcss\projectbundle\Agendamento.bundle.scp.css
-D:\Unip\Desenvolvimento Web com .Net\Agendamento\obj\Debug\net9.0\compressed\tf7scf3fk4-{0}-lugek5hnai-lugek5hnai.gz
 D:\Unip\Desenvolvimento Web com .Net\Agendamento\obj\Debug\net9.0\compressed\euviklev9n-{0}-61n19gt1b8-61n19gt1b8.gz
 D:\Unip\Desenvolvimento Web com .Net\Agendamento\obj\Debug\net9.0\compressed\aelwcv7fwj-{0}-fr7q2aak1r-fr7q2aak1r.gz
 D:\Unip\Desenvolvimento Web com .Net\Agendamento\obj\Debug\net9.0\compressed\kz62kcb9j2-{0}-bqjiyaj88i-bqjiyaj88i.gz
@@ -792,3 +791,4 @@ D:\Unip\Desenvolvimento Web com .Net\Agendamento\obj\Debug\net9.0\Agendamento.pd
 D:\Unip\Desenvolvimento Web com .Net\Agendamento\obj\Debug\net9.0\Agendamento.genruntimeconfig.cache
 D:\Unip\Desenvolvimento Web com .Net\Agendamento\obj\Debug\net9.0\ref\Agendamento.dll
 D:\Unip\Desenvolvimento Web com .Net\Agendamento\obj\Debug\net9.0\Agendamento.sourcelink.json
+D:\Unip\Desenvolvimento Web com .Net\Agendamento\obj\Debug\net9.0\compressed\tf7scf3fk4-{0}-r7o03e2t8i-r7o03e2t8i.gz

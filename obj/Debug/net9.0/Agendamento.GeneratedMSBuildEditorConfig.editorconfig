@@ -38,12 +38,24 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Unip/Desenvolvimento Web com .Net/Agendamento/Views/Medico/Detalhar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNvXERldGFsaGFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Unip/Desenvolvimento Web com .Net/Agendamento/Views/Medico/Editar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNvXEVkaXRhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Unip/Desenvolvimento Web com .Net/Agendamento/Views/Medico/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNvXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Unip/Desenvolvimento Web com .Net/Agendamento/Views/Medico/Inserir.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNvXEluc2VyaXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Unip/Desenvolvimento Web com .Net/Agendamento/Views/Medico/Remover.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNvXFJlbW92ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Unip/Desenvolvimento Web com .Net/Agendamento/Views/Shared/Error.cshtml]
