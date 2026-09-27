@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Agendamento.Models
 {
@@ -21,6 +22,6 @@ namespace Agendamento.Models
         [MaxLength(100)]
         public string? Endereco { get; set; }
         [Required]
-        public DateTime DataNascimento { get; set; }
+        public DateOnly DataNascimento { get; set; }
     }
 }

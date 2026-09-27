@@ -40,6 +40,35 @@ namespace Agendamento.Data
             }
         }
 
+        public void PopulaPacientes()
+        {
+            if (_context.Paciente.Any())
+            {
+                return;
+            }
+
+            Paciente p1 = new Paciente
+            {
+                Nome = "Ana Silva",
+                CPF = "11111111111",
+                Telefone = "11999998888",
+                Endereco = "Rua das Flores, 100",
+                DataNascimento = new DateOnly(1995, 5, 20)
+            };
+
+            Paciente p2 = new Paciente
+            {
+                Nome = "Carlos Souza",
+                CPF = "22222222222",
+                Telefone = "21988887777",
+                Endereco = "Avenida Brasil, 200",
+                DataNascimento = new DateOnly(1988, 10, 15)
+            };
+
+            _context.Paciente.AddRange(p1, p2);
+            _context.SaveChanges();
+        }
+
 
     }
 }

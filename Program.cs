@@ -22,6 +22,8 @@ namespace Agendamento
 
             builder.Services.AddScoped<MedicoService>();
 
+            builder.Services.AddScoped<PacienteService>();
+
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
@@ -40,6 +42,7 @@ namespace Agendamento
                     .GetRequiredService<SeedingService>();
                     
                      seedingService.Popula();
+                     seedingService.PopulaPacientes();
                  }
             }
 
