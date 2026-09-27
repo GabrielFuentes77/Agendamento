@@ -26,8 +26,8 @@
             <tr>
                 <td>@paciente.PacienteId</td>
                 <td>@paciente.Nome</td>
-                <td>@paciente.CPF</td>
-                <td>@paciente.Telefone</td>
+                <td>@Formatador.FormatarCPF(paciente.CPF)</td>
+                <td>@Formatador.FormatarTelefone(paciente.Telefone)</td>
                 <td>@paciente.Endereco</td>
                 <td>@paciente.DataNascimento.ToString("dd/MM/yyyy")</td>
                 <td class="acoes">
@@ -39,3 +39,4 @@
         }
     </tbody>
 </table>
+

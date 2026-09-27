@@ -16,10 +16,10 @@
         <dd class="col-sm-10">@Model.Nome</dd>
 
         <dt class="col-sm-2">CPF</dt>
-        <dd class="col-sm-10">@Model.CPF</dd>
+        <dd class="col-sm-10">@Formatador.FormatarCPF(Model.CPF)</dd>
 
         <dt class="col-sm-2">Telefone</dt>
-        <dd class="col-sm-10">@Model.Telefone</dd>
+        <dd class="col-sm-10">@Formatador.FormatarTelefone(Model.Telefone)</dd>
 
         <dt class="col-sm-2">Endereço</dt>
         <dd class="col-sm-10">@Model.Endereco</dd>
